@@ -7,7 +7,7 @@ Full-Stack Developer | AI Enthusiast
 
 ## ✦ About Me
 
-<img align="right" src="assets/Anime%20girl.gif" width="230" alt="Pixel art coding girl">
+<img align="right" src="assets/Anime%20girl.gif" width="210" alt="Pixel art coding girl">
 
 🎓 **The Basics**  
 3rd-year Software Engineering student at UTM, Malaysia.
