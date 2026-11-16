@@ -4,7 +4,6 @@ Hi, I'm Yuqi! 👋
 
 Full-Stack Developer | AI Enthusiast
 
-<img align="right" src="assets/Anime%20girl.gif" width="250" alt="Pink pixel art girl coding at her desk">
 
 ## ✦ About Me
 
